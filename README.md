@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, I'm Baokker 👋
+- 🏫 Currently studying at Tongji University, software engineering
+- 🗻 Here is [my blog website](baokker.github.io), where I will share my opinion, reading books, as well as some technical experience
+- 📫 Contact with me through my email: baokker0228@gmail.com
+- 😉 Enjoy it!
+
+[![Baokker's github stats](https://github-readme-stats.vercel.app/api?username=Baokker&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Baokker/Baokker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
