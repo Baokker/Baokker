@@ -1,6 +1,6 @@
 # Hi there, I'm Baokker 👋
 - 🏫 Currently studying at Tongji University, software engineering
-- 🗻 Here is [my blog website](baokker.github.io), where I will share my opinion, reading books, as well as some technical experience
+- 🗻 Here is [my blog website](https://baokker.github.io/), where I will share my opinion, reading books, as well as some technical experience
 - 📫 Contact with me through my email: baokker0228@gmail.com
 - 😉 Enjoy it!
 
